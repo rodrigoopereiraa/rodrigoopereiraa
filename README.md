@@ -36,6 +36,6 @@ Eai, Beleza? Eu sou o Rodrigo 👋✌
 
 <div>
 
- ![Snake animation](https://github.com/rodrigoopereiraa/rodrigoorodrigopereiraa/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/rodrigoopereiraa/rodrigoopereiraa/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
