@@ -1,6 +1,6 @@
 Eai, Beleza? Eu sou o Rodrigo 👋✌
 
-- 🔭 Hoje migrando pra área de desenvolvimento Web
+- 🔭 Atualmente migrando pra área de desenvolvimento Web
 - 🌱 Estou aprendendo Front-end
 - 😄 Pronomes: ele / dele
 
@@ -24,8 +24,8 @@ Eai, Beleza? Eu sou o Rodrigo 👋✌
   ##
  
 <div> 
-  <a href="https://https://www.linkedin.com/in/rodrigo-pereira2006/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rodrigo20.ads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigo-pereira2006/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:rodrigo20.ads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rodrigo.perfer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
