@@ -1,6 +1,6 @@
 Eai, Beleza? Eu sou o Rodrigo 👋✌
 
-- 🔭 Atualmente migrando pra área de desenvolvimento Web
+- 🔭 Atualmente estou em transição para área de desesenvolvimento Web
 - 🌱 Estou aprendendo Front-end
 - 😄 Pronomes: ele / dele
 
