@@ -38,3 +38,4 @@ Eai, Beleza? Eu sou o Rodrigo 👋✌
 ![Snake animation](https://github.com/rodrigoopereiraa/rodrigoopereiraa/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+:))
